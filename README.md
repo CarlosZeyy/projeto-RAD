@@ -43,6 +43,10 @@ Uma visão dos bastidores: aqui está a estrutura do banco de dados antes de qua
 Após adicionar o nome no aplicativo, podemos ver nos bastidores que o dado foi salvo com sucesso no banco de dados, recebendo um "ID" (um número de identificação único).
 ![Banco de dados com registro salvo](images/projeto-RAD-4.png)
 
+### Resultado Final
+Depois que o usuario foi registrado pela interface e salvo no banco de dados do sqlite ele aparece no campo de "usuários cadastrados" da interface e ficará salvo até que seja deletado do banco de dados.
+![Usuário salvo no sistema](images/projeto-RAD-5.png)
+
 ---
 
 ## 🚀 Como testar este projeto no seu computador
